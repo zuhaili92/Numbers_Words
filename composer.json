@@ -1,5 +1,5 @@
 {
-    "name": "pear/numbers_words",
+    "name": "zuhaili92/numbers_words",
     "description": "Allows converting numbers written in arabic digits to words in several languages. You can convert an integer between -infinity and infinity.",
     "type": "library",
     "keywords": [
@@ -31,6 +31,10 @@
         {
             "name": "Piotr Klaban",
             "email": "makler@man.torun.pl"
+        },
+        {
+            "name": "Zuhaili",
+            "email": "zuhaili.xperia@gmail.com"
         }
     ],
     "require": {
